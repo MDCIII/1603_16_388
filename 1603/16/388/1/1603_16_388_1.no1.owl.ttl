@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Clarendon"@eng-Latn ;
-    wdata:q7200235 "JM01" ;
+    wdata:Q7200235 "JM01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -58,7 +58,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint Catherine"@eng-Latn ;
-    wdata:q7200235 "JM10" ;
+    wdata:Q7200235 "JM10" ;
 .
 
 <urn:mdciii:1603:16:388:1:11>
@@ -69,7 +69,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint Elizabeth"@eng-Latn ;
-    wdata:q7200235 "JM11" ;
+    wdata:Q7200235 "JM11" ;
 .
 
 <urn:mdciii:1603:16:388:1:12>
@@ -80,7 +80,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint James"@eng-Latn ;
-    wdata:q7200235 "JM12" ;
+    wdata:Q7200235 "JM12" ;
 .
 
 <urn:mdciii:1603:16:388:1:13>
@@ -91,7 +91,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint Mary"@eng-Latn ;
-    wdata:q7200235 "JM13" ;
+    wdata:Q7200235 "JM13" ;
 .
 
 <urn:mdciii:1603:16:388:1:14>
@@ -102,7 +102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint Thomas"@eng-Latn ;
-    wdata:q7200235 "JM14" ;
+    wdata:Q7200235 "JM14" ;
 .
 
 <urn:mdciii:1603:16:388:1:15>
@@ -113,7 +113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Trelawny"@eng-Latn ;
-    wdata:q7200235 "JM15" ;
+    wdata:Q7200235 "JM15" ;
 .
 
 <urn:mdciii:1603:16:388:1:16>
@@ -124,7 +124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Westmoreland"@eng-Latn ;
-    wdata:q7200235 "JM16" ;
+    wdata:Q7200235 "JM16" ;
 .
 
 <urn:mdciii:1603:16:388:1:17>
@@ -135,7 +135,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Kingston"@eng-Latn ;
-    wdata:q7200235 "JM17" ;
+    wdata:Q7200235 "JM17" ;
 .
 
 <urn:mdciii:1603:16:388:1:2>
@@ -146,7 +146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Hanover"@eng-Latn ;
-    wdata:q7200235 "JM02" ;
+    wdata:Q7200235 "JM02" ;
 .
 
 <urn:mdciii:1603:16:388:1:4>
@@ -157,7 +157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Manchester"@eng-Latn ;
-    wdata:q7200235 "JM04" ;
+    wdata:Q7200235 "JM04" ;
 .
 
 <urn:mdciii:1603:16:388:1:7>
@@ -168,7 +168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Portland"@eng-Latn ;
-    wdata:q7200235 "JM07" ;
+    wdata:Q7200235 "JM07" ;
 .
 
 <urn:mdciii:1603:16:388:1:8>
@@ -179,7 +179,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint Andrew"@eng-Latn ;
-    wdata:q7200235 "JM08" ;
+    wdata:Q7200235 "JM08" ;
 .
 
 <urn:mdciii:1603:16:388:1:9>
@@ -190,6 +190,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:388:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:388:0> ;
     skos:prefLabel "Saint Ann"@eng-Latn ;
-    wdata:q7200235 "JM09" ;
+    wdata:Q7200235 "JM09" ;
 .
 
